@@ -11,7 +11,7 @@ Creates an enterprise application as contributor role to run the inline scanning
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.15.0 |
 | <a name="requirement_azuread"></a> [azuread](#requirement\_azuread) | 2.7.0 |
-| <a name="requirement_azurerm"></a> [azurerm](#requirement\_azurerm) | >=3.0.2 |
+| <a name="requirement_azurerm"></a> [azurerm](#requirement\_azurerm) | >=3.52.0 |
 
 ## Providers
 
